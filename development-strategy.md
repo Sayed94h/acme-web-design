@@ -33,16 +33,19 @@ __full user story description__
 ### Branch
 
 * Created the branch `start-up`
-* Created a new file style.css
+* Created a new folder called `css`
+* Created a new file `style.css`
+* Created a new folder called `images` within a REAMDE file describing the folder
 
 
 ### HTML
 
-what did you change in the HTML and why?
+1. Added title to index.html
+1. linked the `style.css` file to the `index.html`
 
 ### CSS
 
-what did you change in the CSS and why?
+No change
 
 ## 2. __User Story branch `start-up`
 
