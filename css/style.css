@@ -135,3 +135,15 @@ header a:hover {
 #boxes .box img {
   width: 90px;
 }
+
+/* Footer */
+
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: #fff;
+  background-color: #e8491d;
+  text-align: center;
+}
+  
+  
