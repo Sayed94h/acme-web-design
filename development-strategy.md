@@ -26,7 +26,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __User Story branch `start-up` __
+## 1. User Story branch `start-up` 
 
 __full user story description__
 
@@ -49,7 +49,7 @@ __full user story description__
 
 No change
 
-## 2. __User Story branch `header` __
+## 2. User Story branch `header` 
 
 __full user story description__
 
@@ -70,7 +70,7 @@ __full user story description__
 * style for the header(header text, nav)
 * Styles such as: background-color, color, font size, padding, margin,...
 
-## 3. __User Story branch `main-sec1` __
+## 3. User Story branch `main-sec1` 
 
 __full user story description__
 
@@ -92,7 +92,7 @@ __full user story description__
 * Added `font and color style`
 * Added `margin and text-align`
 
-## 4. __User Story branch `main-sec2` __
+## 4. User Story branch `main-sec2` 
 
 __full user story description__
 
@@ -102,29 +102,45 @@ __full user story description__
 
 ### HTML
 
-what did you change in the HTML and why?
+* Added `section tag`
+* Added `h1 tag`
+* Added `div tag`
+* Added `form tag`
+* Added `input tag`
+* Added `button tag`
 
 ### CSS
 
-what did you change in the CSS and why?
+* Added `font and color style`
+* Added `margin, padding, height, width, background, float`
 
-## 5. __User Story branch `start-up`
+## 5. User Story branch `main-sec3`
 
 __full user story description__
 
 ### Branch
 
-what branch(es) did you work on?
+* Created the branch `main-sec3` for the third section in the main part of the webpage
+
 
 ### HTML
 
-what did you change in the HTML and why?
+* Added `section tag`
+* Added `h3 tag`
+* Added `div tag`
+* Added `img tag`
+* Added `p tag`
 
 ### CSS
 
-what did you change in the CSS and why?
+* Added rules:
+    * float
+    * width
+    * padding
+    * margin
+    * text-align
 
-## 6. __User Story branch `start-up`
+## 6. __User Story branch `footer`
 
 __full user story description__
 
