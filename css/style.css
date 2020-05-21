@@ -69,7 +69,7 @@ header a:hover {
 /* main part of the webpage, section one */
 #showcase {
   min-height: 400px;
-  background: url(./images/showcase.jpg) no-repeat 0 -400px;
+  background: url("./images/showcase.jpg") no-repeat 0 -400px;
   text-align: center;
   color: #fff;
 }
