@@ -49,7 +49,82 @@ __full user story description__
 
 No change
 
-## 2. __User Story branch `start-up`
+## 2. __User Story branch `header`
+
+__full user story description__
+
+### Branch
+
+* Created the branch `header`
+
+### HTML
+
+* Created `header tag`
+* Created `div tag` inside the header
+* Created `nav tag` for HOME, ABOUt, SERVICES
+* Created `span tag`
+
+### CSS
+
+* style for the body **Globally**
+* style for the header(header text, nav)
+* Styles such as: background-color, color, font size, padding, margin,...
+
+## 3. __User Story branch `main-sec1`
+
+__full user story description__
+
+### Branch
+
+* Created a new branch `main-sec1` for the showcase in main part of the web page
+
+
+### HTML
+
+* Added `section tag`
+* Added `h1 tag`
+* Added `div tag`
+* Added `p tag`
+
+### CSS
+
+* Added `background picture`
+* Added `font and color style`
+* Added `margin and text-align`
+
+## 4. __User Story branch `main-sec2`
+
+__full user story description__
+
+### Branch
+
+* Created a new branch `main-sec2` for the news letter**(second section of the webpage)**  in main part of the web page
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 5. __User Story branch `start-up`
+
+__full user story description__
+
+### Branch
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 6. __User Story branch `start-up`
 
 __full user story description__
 
