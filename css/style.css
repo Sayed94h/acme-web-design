@@ -60,3 +60,9 @@ header .highlight, header .current a {
   color: #e8491d;
   font-weight: bold;
 }
+
+header a:hover {
+  color: #ccc;
+  font-weight: bold;
+}
+
