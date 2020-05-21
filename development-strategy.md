@@ -5,7 +5,11 @@
 write a short description of your project:
 - who would want to use it?
 - why would they want to use it?
+
+---
+
 This project has created in a public repo. So, it is accessable for everyone who wants to learn from this project, fork this repo, work on this project, merge his/her change to this project...
+
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
@@ -18,11 +22,29 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
+- Generated repo `acme-web-design` from Template `w3-validation-template`
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. __User Story branch `start-up`
+
+__full user story description__
+
+### Branch
+
+* Created the branch `start-up`
+* Created a new file style.css
+
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 2. __User Story branch `start-up`
 
 __full user story description__
 
@@ -37,12 +59,6 @@ what did you change in the HTML and why?
 ### CSS
 
 what did you change in the CSS and why?
-
-## 2. ...
-
-...
-
-...
 
 ## Finishing Touches
 
