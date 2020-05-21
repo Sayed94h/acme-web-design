@@ -41,7 +41,9 @@ __full user story description__
 ### HTML
 
 1. Added title to index.html
-1. linked the `style.css` file to the `index.html`
+1. Linked the `style.css` file to the `index.html`
+1. Added `meta tag` for the webpage
+
 
 ### CSS
 
