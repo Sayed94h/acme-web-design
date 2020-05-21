@@ -1,11 +1,11 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
 write a short description of your project:
 - who would want to use it?
 - why would they want to use it?
-
+This project has created in a public repo. So, it is accessable for everyone who wants to learn from this project, fork this repo, work on this project, merge his/her change to this project...
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
@@ -26,7 +26,7 @@ __A User can see my initial repository and live demo__
 
 __full user story description__
 
-### Repo
+### Branch
 
 what branch(es) did you work on?
 
