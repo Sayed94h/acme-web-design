@@ -84,3 +84,24 @@ header a:hover {
   font-size: 20px;
 }
 
+#newsletter {
+  padding: 15px;
+  color: #fff;
+  background: #35424a;
+}
+
+#newsletter h1 {
+  float: left;
+}
+
+#newsletter form {
+  float: right;
+  margin-tom: 15px;
+}
+
+#newsletter input[type="emil"] {
+  padding: 4px;
+  height: 25px;
+  width: 250px;
+}
+
