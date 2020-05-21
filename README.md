@@ -8,7 +8,7 @@ This project is about creating a fictional website called "Acme Web Design" for 
 
 ### What would you learn in this project?
 
-HTML5 and CSS3 from the very beggining.
+Responsive web design using HTML5 and CSS3 from the very beggining.
 
 ### Who is this project for?
 
