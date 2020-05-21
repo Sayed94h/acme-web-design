@@ -80,7 +80,7 @@ header a:hover {
 
 #showcase {
   min-height: 400px;
-  background: url('https://github.com/Sayed94h/acme-web-design/images/showcase.jpg') no-repeat 0 -400px;
+  background: url('../images/showcase.jpg') no-repeat 0 -400px;
   text-align: center;
   color: #fff;
 }
