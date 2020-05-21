@@ -146,15 +146,73 @@ __full user story description__
 
 ### Branch
 
-what branch(es) did you work on?
+* Added a new branch called `footer` for the footer part of the webpage
+
 
 ### HTML
 
-what did you change in the HTML and why?
+* Added tags:
+      * footer tag
+      * p tag
 
 ### CSS
 
-what did you change in the CSS and why?
+* Added rules:
+      * text-align
+      * color
+      * background-color
+      * padding
+      * margin
+      
+## 7. __User Story branch `about`
+
+__full user story description__
+
+### Branch
+
+* Added a new branch called `about` for the footer part of the webpage
+
+
+### HTML
+
+* Added tags:
+      * footer tag
+      * p tag
+
+### CSS
+
+* Added rules:
+      * text-align
+      * color
+      * background-color
+      * padding
+      * margin
+      
+## 8. __User Story branch `services`
+
+__full user story description__
+
+### Branch
+
+* Added a new branch called `footer` for the footer part of the webpage
+
+
+### HTML
+
+* Added tags:
+      * footer tag
+      * p tag
+
+### CSS
+
+* Added rules:
+      * text-align
+      * color
+      * background-color
+      * padding
+      * margin
+      
+
 
 ## Finishing Touches
 
