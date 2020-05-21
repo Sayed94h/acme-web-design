@@ -26,7 +26,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __User Story branch `start-up`
+## 1. __User Story branch `start-up` __
 
 __full user story description__
 
@@ -49,7 +49,7 @@ __full user story description__
 
 No change
 
-## 2. __User Story branch `header`
+## 2. __User Story branch `header` __
 
 __full user story description__
 
@@ -70,7 +70,7 @@ __full user story description__
 * style for the header(header text, nav)
 * Styles such as: background-color, color, font size, padding, margin,...
 
-## 3. __User Story branch `main-sec1`
+## 3. __User Story branch `main-sec1` __
 
 __full user story description__
 
@@ -92,13 +92,13 @@ __full user story description__
 * Added `font and color style`
 * Added `margin and text-align`
 
-## 4. __User Story branch `main-sec2`
+## 4. __User Story branch `main-sec2` __
 
 __full user story description__
 
 ### Branch
 
-* Created a new branch `main-sec2` for the news letter**(second section of the webpage)**  in main part of the web page
+* Created a new branch `main-sec2` for the news letter **(second section of the webpage)**  in main part of the web page
 
 ### HTML
 
