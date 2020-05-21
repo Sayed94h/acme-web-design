@@ -11,8 +11,7 @@ This project is about creating a fictional website called "Acme Web Design" for 
 Responsive web design using HTML5 and CSS3 from the very beggining.
 
 * #### HTML5:
-
-      *  Semantic elements
+     * Semantic elements
 
 ### Who is this project for?
 
