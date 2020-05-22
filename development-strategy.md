@@ -241,26 +241,47 @@ __full user story description__
 
 ### Branch
 
-* Added a new branch called `footer` for the footer part of the webpage
+* Added a new branch called `services` for the footer part of the webpage
+* Created a new file called `services.html`
 
 
 ### HTML
 
-* Added tags:
-      * footer tag
-      * p tag
+* copy-past the content of the file `about.html` inside the file `services.html`
+* Changed some element's content:
+
+    * Changed the title -->> Acme Web Design | services
+      
+    * Removed the `class="current"` from `about page link` and added it to the `services page link`  
+    
+    * Added `ul tag` with an `id="services"`
+    
+    * Added `li tags` 
+    * Added `h3 tags` inside the `li tags`
+    * Added `p tags` below `h3 tags`
+    * Added `form tag` with `class="quote"`
+    * Added `div tag` , `label tag`, `input tag` inside the above `form tag`
+    * Added `button tag` with `class="buttoon_1"`
+      
 
 ### CSS
 
-* Added rules:
-      * text-align
-      * color
-      * background-color
-      * padding
-      * margin
+* Added rules for aside ul#services li:
+
+    * list-style:none;
       
-
-
+    * padding: 20px;
+      
+    * border: #ccc solid 1px;
+    
+    * margin-bottom: 5px;
+    * background: #e6e6e6;
+      
+* Added rules for `aside#sidebar .quote input`, `aside#sidebar .quote textarea`{
+   * width: 90%;
+   * padding: 5px;
+      
+      
 ## Finishing Touches
 
 - Write final, complete README:
