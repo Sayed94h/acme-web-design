@@ -14,7 +14,7 @@ This project has created in a public repo. So, it is accessable for everyone who
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./images/wireframe.PNG)
 
 ## 0. Set-Up
 
@@ -141,7 +141,7 @@ __full user story description__
     * margin
     * text-align
 
-## 6. __User Story branch `footer`
+## 6. User Story branch `footer`
 
 __full user story description__
 
@@ -164,7 +164,7 @@ __full user story description__
     * padding
     * margin
       
-## 7. __User Story branch `about`
+## 7. User Story branch `about`
 
 __full user story description__
 
@@ -332,7 +332,8 @@ To create a responsive webpage, you have create media queries and use relative c
    
    
    ```
-   
+ 
+## I really hope that this development strategy makes sense to you
       
 ## Finishing Touches
 
