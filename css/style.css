@@ -152,6 +152,11 @@ aside#sidebar {
   
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+  width: 90%;
+  padding: 5px;
+}
+
 /* Main-col */
 
 article#main-col {
@@ -164,6 +169,16 @@ ol li {
   margin: 0;
   padding: 0;
   
+}
+
+/* Services */
+
+ul#services li {
+  list-style: none;
+  padding: 20px;
+  border: #ccc solid 1px;
+  margin-bottom: 5px;
+  background: #e6e6e6;
 }
 
 /* Footer */
