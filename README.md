@@ -13,6 +13,12 @@ Responsive web design using HTML5 and CSS3 from the very beggining.
 * #### HTML5:
      * Semantic elements
 
+* #### CSS3:
+     * Relative CSS units
+
+* #### Media Queries:
+     * Media Queries based on the device `max-width`
+
 ### Who is this project for?
 
 For the absolute beginner 
