@@ -164,8 +164,7 @@ article#main-col {
   width: 65%;
 }
 
-ol li {
-  font-weight: bold;
+section .info p {
   margin: 0;
   padding: 0;
   
