@@ -10,6 +10,10 @@ write a short description of your project:
 
 This project has created in a public repo. So, it is accessable for everyone who wants to learn from this project, fork this repo, work on this project, merge his/her change to this project...
 
+### In general!
+
+Merge each branch when it is completely finished
+
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
