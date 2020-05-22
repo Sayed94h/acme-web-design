@@ -159,6 +159,11 @@ article #main-col {
   width: 65%;
 }
 
+ol li {
+  text-decoration: bold;
+  
+}
+
 /* Footer */
 
 footer {
