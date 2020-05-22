@@ -152,19 +152,17 @@ __full user story description__
 
 ### HTML
 
-* Added tags:
-         *  `footer tag`
-      
-         *  `p tag`
+* Added `footer tag`
+* Added `p tag`
 
 ### CSS
 
 * Added rules:
-      * text-align
-      * color
-      * background-color
-      * padding
-      * margin
+    * text-align
+    * color
+    * background-color
+    * padding
+    * margin
       
 ## 7. __User Story branch `about`
 
@@ -181,31 +179,31 @@ __full user story description__
 * copy-past the content of the file `index.html` inside the file `about`
 * Changed some element's content:
 
-      * Changed the title -->> Acme Web Design | about
+    * Changed the title -->> Acme Web Design | about
       
-      * Added the `class="current"` to the about page link
+    * Added the `class="current"` to the about page link
       
-      * Removed Showcase or the `first section` of the webpage
+    * Removed Showcase or the `first section` of the webpage
       
-      * Removed the box area or `third section`
+    * Removed the box area or `third section`
       
-      * Added new `section` with `id="main"`
+    * Added new `section` with `id="main"`
       
-      * Added `div tag` with `class="container`
+    * Added `div tag` with `class="container`
       
-      * Added `article tag` inside the above `div tag` with `id="main-col"`
+    * Added `article tag` inside the above `div tag` with `id="main-col"`
       
-      * Added `h1 tag` inside the above `article tag` with `class="page-title"`
+    * Added `h1 tag` inside the above `article tag` with `class="page-title"`
+     
+    * Added `p tags` below the `h1 tag` , the last `p tag` has a `class="dark"`
       
-      * Added `p tags` below the `h1 tag` , the last `p tag` has a `class="dark"`
+    * Added `aside tag` below the `article tag` with `id="sidebar"`
       
-      * Added `aside tag` below the `article tag` with `id="sidebar"`
+    * Added `div tag` inside the `aside tag` with `class="dark"`
       
-      * Added `div tag` inside the `aside tag` with `class="dark"`
+    * Added `h3 tag`inside the `div tag`
       
-      * Added `h3 tag`inside the `div tag`
-      
-      * Added `p tag` below the `h3 tag`
+    * Added `p tag` below the `h3 tag`
       
       
 
@@ -213,29 +211,29 @@ __full user story description__
 
 * Added rules for aside #sidebar:
 
-      * float: right
+    * float: right
       
-      * width: 30%
+    * width: 30%
       
-      * margin-top: 10px
+    * margin-top: 10px
       
 * Added rules for article #main-col:
 
-      * float: left
+    * float: left
       
-      * width: 65%
+    * width: 65%
       
 * Added rules for .dark:
 
-      * padding: 15px
+    * padding: 15px
       
-      * background: #35424a
+    * background: #35424a
       
-      * color: #fff
+    * color: #fff
       
-      * margin-top: 10px
+    * margin-top: 10px
       
-      * margin-bottom: 10px
+    * margin-bottom: 10px
       
 ## 8. __User Story branch `services`
 
