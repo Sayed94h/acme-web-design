@@ -160,7 +160,7 @@ article#main-col {
 }
 
 ol li {
-  text-decoration: bold;
+  font-weight: bold;
   margin: 0;
   padding: 0;
   
