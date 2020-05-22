@@ -330,7 +330,7 @@ To create a responsive webpage, you have create media queries and use relative c
     }
    }
 
-      ```
+   ```
       
 ## I really hope that this development strategy makes sense to you
    
