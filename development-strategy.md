@@ -327,13 +327,13 @@ To create a responsive webpage, you have create media queries and use relative c
     width: 100%;
     margin-bottom: 5px;
     
-  }
-}
-   
-   
-   ```
- 
+    }
+   }
+
+      ```
+      
 ## I really hope that this development strategy makes sense to you
+   
       
 ## Finishing Touches
 
