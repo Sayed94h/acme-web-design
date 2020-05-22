@@ -235,7 +235,7 @@ __full user story description__
       
     * margin-bottom: 10px
       
-## 8. __User Story branch `services`
+## 8. User Story branch `services`
 
 __full user story description__
 
@@ -266,7 +266,7 @@ __full user story description__
 
 ### CSS
 
-* Added rules for aside ul#services li:
+* Added rules for `aside ul#services li`:
 
     * list-style:none;
       
@@ -280,7 +280,59 @@ __full user story description__
 * Added rules for `aside#sidebar .quote input`, `aside#sidebar .quote textarea`{
    * width: 90%;
    * padding: 5px;
-      
+     
+## 9. User Story branch `media-queries` 
+
+__full user story description__
+
+To create a responsive webpage, you have create media queries and use relative css units
+
+### Branch
+
+* Created the branch `media-queries`
+
+### HTML
+
+**No Change in HTML files**
+
+
+### CSS
+
+* Created `media queries` for responsive webpage:
+   
+   ```CSS
+   
+   @media (max-width: 768px) {
+  header #branding, header nav, header nav li, #newsletter h1, 
+  #newsletter form, #boxes .box, article#main-col, aside#sidebar {
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+  
+  header {
+   padding-bottom: 20px; 
+  }
+  
+  #showcase h1 {
+   margin-top: 40px; 
+  }
+  
+  #newsletter button, .quote button {
+    display: block;
+    width: 100%;
+  }
+  
+  #newsletter form input[type="email"], .quote input, .quote textarea {
+    width: 100%;
+    margin-bottom: 5px;
+    
+  }
+}
+   
+   
+   ```
+   
       
 ## Finishing Touches
 
