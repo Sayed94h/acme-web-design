@@ -164,6 +164,9 @@ article#main-col, .page-title {
   width: 65%;
 }
 
+.page-title {
+ margin-left: 20px; 
+}
 section .info p {
   margin: 0;
   padding: 0;
