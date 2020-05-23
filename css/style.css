@@ -167,6 +167,7 @@ article#main-col, .page-title {
 .page-title {
  float: left;
  width: 65%;
+ margin-left: 10%; 
 }
 section .info p {
   margin: 0;
@@ -221,10 +222,8 @@ footer {
     margin-bottom: 5px;
     
   }
-  /*
   .page-title {
- margin-left: 6%; 
+ margin-left: 10%; 
 }
-  */
   
 }
