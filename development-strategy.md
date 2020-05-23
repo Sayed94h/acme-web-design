@@ -34,7 +34,7 @@ __A User can see my initial repository and live demo__
 
 __full user story description__
 
-As a visitor I want to know where this project started from and as a website owner or creator, I want to let the visitors know how to start working with this project.
+As a visitor I want to know where this project started from and as a website owner or creator, I want to let the visitors or learners know how to start working with this project.
 
 ### Branch
 
