@@ -34,6 +34,8 @@ __A User can see my initial repository and live demo__
 
 __full user story description__
 
+As a visitor I want to know where this project started from and as a website owner or creator, I want to let the visitors know how to start working with this project.
+
 ### Branch
 
 * Created the branch `start-up`
@@ -57,6 +59,8 @@ No change
 
 __full user story description__
 
+As a visitor, I want to know which website I am visiting and as a website owner or creator I want to give the website a good descriptive `header`.
+
 ### Branch
 
 * Created the branch `header`
@@ -77,6 +81,8 @@ __full user story description__
 ## 3. User Story branch `main-sec1` 
 
 __full user story description__
+
+As a visitor, I want to know what the website is about and as a website owner or creator I want to describe the content of the website in a short showcase area.
 
 ### Branch
 
@@ -101,6 +107,8 @@ __full user story description__
 
 __full user story description__
 
+As a visitor, I want to subscribe for more news letters which keeps me up-to-date and as a website owner or creator I want to create subscribtion option for the website so that visitors happily subscribe for news letters.
+
 ### Branch
 
 * Created a new branch `main-sec2` for the news letter **(second section of the webpage)**  in main part of the web page
@@ -122,6 +130,8 @@ __full user story description__
 ## 5. User Story branch `main-sec3`
 
 __full user story description__
+
+As a visitor, I want to read and understand the main content of the the website and as a website owner or creator I want that visitors are comfortable with the main content of the website by good explanation and visualisation with adding photos.
 
 ### Branch
 
@@ -149,6 +159,8 @@ __full user story description__
 
 __full user story description__
 
+As a visitor, I want to have enough information about the website I am visiting and as a website owner I want that visitors know about the copyright and etc...
+
 ### Branch
 
 * Added a new branch called `footer` for the footer part of the webpage
@@ -171,6 +183,8 @@ __full user story description__
 ## 7. User Story branch `about`
 
 __full user story description__
+
+As a visitor, I want to know about the website's owner or company and as a website owner I want to describe my company or myself so that visitors know who I am or what the company is.
 
 ### Branch
 
@@ -243,6 +257,8 @@ __full user story description__
 
 __full user story description__
 
+As a visitor, I want to know what services the website or company offers and have so that I can benefit from and as a website owner I want that people know about our services which is the main goal of the website and company.
+
 ### Branch
 
 * Added a new branch called `services` for the footer part of the webpage
@@ -289,7 +305,7 @@ __full user story description__
 
 __full user story description__
 
-To create a responsive webpage, you have create media queries and use relative css units
+As a visitor, I want to be comfortable with the layout of the website or webpage while I am reading, watching,... in the website and as a website's owner I have to create a responsive webpage so that visitors don't get bored while visiting my website.
 
 ### Branch
 
